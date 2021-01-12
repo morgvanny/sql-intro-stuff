@@ -1,0 +1,27 @@
+Structured
+ Query
+  Language
+
+Language used to talk to databases
+ - MySQL
+ - Postgresql
+ - sqlite
+
+storing info consistently
+ - data is persistent
+ - data is sorted into types
+ - data is stored in a uniform way
+
+single source of truth
+
+can sync data for all users
+
+create an api (wrapper) (application programming interface)
+ Create
+ Read - query/sort/search/filter
+ Update
+ Destroy
+
+
+NoSQL
+ - MongoDB
